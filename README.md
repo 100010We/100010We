@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kelisis @100010We
+- 👋 Hi, I’m kelisia @100010We
 - 👀 I’m interested in python,c++,web/app development
 - 🌱 I’m currently learning python,c++
 - 💞️ I’m looking to collaborate on ...
