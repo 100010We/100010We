@@ -1,6 +1,6 @@
-- 👋 Hi, I’m kelisia @100010We
-- 👀 I’m interested in python,c++,web/app development
-- 🌱 I’m currently learning python,c++
+- 👋 Hi, I’m kelisia/WENDY @100010We
+- 👀 I’m interested in python,c++,web/app development, Flutter, javascript, react.js, node.js
+- 🌱 I’m currently learning to use different frameworks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ig@whytetech_c or email @wendywhyte15@gmail.com
 
